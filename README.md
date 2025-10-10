@@ -6,7 +6,7 @@ Elastic users are free to clone, install and try out any of the projects listed 
 However, it is necessary to understand that **these are not fully supported products and as such are not covered by any commercial support license**.
 Support, updates and bug fixes is **best effort only** and it is highly recommended not to use any of these projects in a production context.
 
-Note also that all code included here is licensed under the Apache 2.0 license unless explciitly stated otherwise.
+Note also that all code included here is licensed under the Apache 2.0 license unless explicitly stated otherwise.
 
 
 ## Project List
