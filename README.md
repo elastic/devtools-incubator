@@ -1,2 +1,19 @@
-# devtools-incubator
-Experimental projects curated by the Developer Tools Team at Elastic
+# Elastic Developer Tools Incubator
+This repository is a central hub for experimental projects and tools curated by the Developer Tools Team at Elastic.
+Here, you will find links to projects as well as guidance for Elastic engineers on how to contribute and maintain your own projects, many of which begin during Spacetime weeks.
+
+Elastic users are free to clone, install and try out any of the projects listed here.
+However, it is necessary to understand that **these are not fully supported products and as such are not covered by any commercial support license**.
+Support, updates and bug fixes is **best effort only** and it is highly recommended not to use any of these projects in a production context.
+
+Note also that all code included here is licensed under the Apache 2.0 license unless explciitly stated otherwise.
+
+
+## Project List
+
+- TODO
+
+
+## Information for Contributors
+
+Information for contributors at Elastic can be found in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
