@@ -11,7 +11,10 @@ Note also that all code included here is licensed under the Apache 2.0 license u
 
 ## Project List
 
-- TODO
+| Project name | Author(s) | Description |
+| :----------- | :-------- | :---------- |
+| [specification-viewer](https://github.com/elastic/specification-viewer) | [Miguel Grinberg](https://github.com/miguelgrinberg) | An interactive browser viewer for the Elasticsearch specification. |
+| [request-converter](https://github.com/elastic/request-converter) | [Miguel Grinberg](https://github.com/miguelgrinberg) | Library that converts Elasticsearch requests in Dev Console syntax to other formats. |
 
 
 ## Information for Contributors
