@@ -15,4 +15,4 @@ Optionally, we also recommend that you include the badge and wording below, whic
 
 > [![Elastic Developer Tools Incubator](edti-logo.180x66.png)](https://github.com/technige/devtools-incubator)
 >
-> This project is part of the [Elastic Developer Tools Incubator](https://github.com/technige/devtools-incubator) program. It should be considered experimental and, as such, should not be used in a production context. Updates, bug fixes, and support are not routinely provided for this project at this time.
+> ⚠️ This project is part of the [Elastic Developer Tools Incubator](https://github.com/technige/devtools-incubator) program. It should be considered experimental and, as such, is not recommended for use in a production environment. Updates, bug fixes, and support are not routinely provided for this project at this time.
