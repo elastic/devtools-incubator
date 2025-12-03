@@ -11,11 +11,11 @@ Note also that all code included here is licensed under the Apache 2.0 license u
 
 ## Project List
 
-| Project name | Author(s) | Description |
-| :----------- | :-------- | :---------- |
-| [specification-viewer](https://github.com/elastic/specification-viewer) | [Miguel Grinberg](https://github.com/miguelgrinberg) | An interactive browser viewer for the Elasticsearch specification. |
-| [request-converter](https://github.com/elastic/request-converter) | [Miguel Grinberg](https://github.com/miguelgrinberg) | Library that converts Elasticsearch requests in Dev Console syntax to other formats. |
-
+| Project name                                                            | Author(s) | Description                                                                          |
+|:------------------------------------------------------------------------| :-------- |:-------------------------------------------------------------------------------------|
+| [specification-viewer](https://github.com/elastic/specification-viewer) | [Miguel Grinberg](https://github.com/miguelgrinberg) | An interactive browser viewer for the Elasticsearch specification.                   |
+| [request-converter](https://github.com/elastic/request-converter)       | [Miguel Grinberg](https://github.com/miguelgrinberg) | Library that converts Elasticsearch requests in Dev Console syntax to other formats. |
+| [esql-idea-plugin](https://github.com/elastic/esql-idea-plugin)         | [Laura Trotta](https://github.com/l-trotta) | Experimental plugin for ES\|QL queries in Intellij IDEA.                             |
 
 ## Information for Contributors
 
